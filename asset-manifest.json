@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shivam/static/css/main.11515369.css",
+    "main.js": "/shivam/static/js/main.932bcbc5.js",
+    "index.html": "/shivam/index.html",
+    "main.11515369.css.map": "/shivam/static/css/main.11515369.css.map",
+    "main.932bcbc5.js.map": "/shivam/static/js/main.932bcbc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11515369.css",
+    "static/js/main.932bcbc5.js"
+  ]
+}
